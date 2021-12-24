@@ -22,6 +22,9 @@ def check_url(Thread,urls):
 		style += url+': '+str(state)+'\n'
 	Thread.kill()
 	print (style[:-1])
+@m4xpr0
+#m4x_p
+Yasen_mhmod
 
 check_url(['https://google.com']*10)
 
