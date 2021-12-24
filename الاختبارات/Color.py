@@ -4,6 +4,12 @@ from pprint import pprint
 
 CO = Color()
 
+@m4xpr0
+
+#SMF
+
+#Yaseen
+
 print('-'*40)
 pprint(
     CO.colors
